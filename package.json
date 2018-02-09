@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Bilchuck/alexa-smarthome#readme",
   "dependencies": {
-    "alexa-sdk": "^1.0.25"
+    "alexa-sdk": "^1.0.25",
+    "sls": "^0.1.0"
   }
 }
