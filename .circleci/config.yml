@@ -29,9 +29,9 @@ jobs:
       - run: npm install
       
       - run:
-        name: Deploy application 
-        command: sls deploy 
-        
+          name: Deploy application 
+          command: sls deploy 
+
       - save_cache:
           paths:
             - node_modules
